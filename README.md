@@ -54,7 +54,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/sentiment-analysis-emotion-detection.git
+    git clone https://github.com/Lourdhu02/sentiment_analysis_emotion_detection.git
     ```
 
 2. Navigate to the project directory:
@@ -66,8 +66,6 @@ To set up the project locally, follow these steps:
     ```
     pip install -r requirements.txt
     ```
-
-4. Download the dataset from [Kaggle](https://www.kaggle.com) and place it in the appropriate directory.
 
 ## Usage
 
